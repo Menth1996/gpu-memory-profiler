@@ -190,3 +190,4 @@ Activity on 2023-02-13T00:00:00 - Revert "docs: Update documentation"
 Activity on 2023-03-03T00:00:00 - docs: Update documentation
 Activity on 2023-03-07T00:00:00 - Improve "model training" logic
 Activity on 2023-03-13T00:00:00 - build: Update build configuration
+Activity on 2023-03-22T00:00:00 - Update "model training" documentation
