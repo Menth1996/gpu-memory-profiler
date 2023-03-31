@@ -8,3 +8,4 @@ Activity on 2023-03-21T00:00:00 - style: Format code
 Activity on 2023-03-21T00:00:00 - chore: Maintenance tasks
 Activity on 2023-03-22T00:00:00 - chore: Maintenance tasks
 Activity on 2023-03-31T00:00:00 - Add support for "UI component"
+Activity on 2023-03-31T00:00:00 - docs: Update documentation
