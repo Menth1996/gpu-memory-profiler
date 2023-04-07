@@ -10,3 +10,4 @@ Activity on 2023-03-22T00:00:00 - chore: Maintenance tasks
 Activity on 2023-03-31T00:00:00 - Add support for "UI component"
 Activity on 2023-03-31T00:00:00 - docs: Update documentation
 Activity on 2023-04-07T00:00:00 - refactor: Improve code structure
+Activity on 2023-04-07T00:00:00 - Merge pull request #77 from data-privacy-toolkit/main
