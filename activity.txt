@@ -194,3 +194,4 @@ Activity on 2023-03-22T00:00:00 - Update "model training" documentation
 Activity on 2023-03-29T00:00:00 - Improve "security patch" logic
 Activity on 2023-04-20T00:00:00 - ci: Configure CI/CD pipeline
 Activity on 2023-04-20T00:00:00 - Merge pull request #66 from federated-learning-framework/main
+Activity on 2023-05-01T00:00:00 - Add support for "API integration"
