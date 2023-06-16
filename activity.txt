@@ -16,3 +16,4 @@ Activity on 2023-04-21T00:00:00 - Revert "Update "{}" documentation"
 Activity on 2023-05-09T00:00:00 - Merge pull request #72 from llm-finetuning-framework/main
 Activity on 2023-05-15T00:00:00 - Update dependencies
 Activity on 2023-05-19T00:00:00 - docs: Update documentation
+Activity on 2023-06-16T00:00:00 - perf: Optimize performance
